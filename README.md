@@ -1,6 +1,7 @@
 # 자료구조 (정렬 종류)
-1. 삽입 정렬(insertion sort)
-2. 버블 정렬(bubble sort)
+1. 삽입 정렬(Insertion sort)
+2. 버블 정렬(Bubble sort)
+3. 퀵 정렬(Quick sort)
 ## 자료구조에서 정렬 기법의 목적
 자료 관리 효율 증가
 
