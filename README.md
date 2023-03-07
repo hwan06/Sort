@@ -12,7 +12,7 @@
 ![image](https://user-images.githubusercontent.com/114748934/223293571-f8019976-d811-4153-9ecd-180377779071.png)
 
 # 2.버블정렬 방법 및 예시
-![image](https://user-images.githubusercontent.com/114748934/223324405-e4fffc1b-c370-43bb-bc4b-8cfc77f7015c.png)
+![image](https://velog.velcdn.com/images%2Fgillog%2Fpost%2F9f3ab7d6-54a3-468f-b892-84710575cfe7%2Fbubble-sort-001.gif)
 # 버블정렬 자바 코드 구현
 ![image](https://user-images.githubusercontent.com/114748934/223325045-456d293c-8061-4a50-9563-ea75d1114b76.png)
 ## 코드 실행 화면
