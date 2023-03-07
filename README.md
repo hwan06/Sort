@@ -19,3 +19,11 @@
 ## 코드 실행 화면
 ![image](https://user-images.githubusercontent.com/114748934/223326790-6e9b9bad-a54f-4df3-8e75-7ce0adcfed84.png)
 
+# 3.퀵 정렬 방법 및 예시
+피벗(pivot)값을 제일 왼쪽 값으로 지정
+![image](https://velog.velcdn.com/images%2Fkji990607%2Fpost%2F28948297-8ed3-406a-80fe-4784557d1285%2Fquick_sort.gif)
+# 퀵 정렬 자바 코드 구현
+![image](https://user-images.githubusercontent.com/114748934/223427507-d7417ff6-8b43-42ff-9c40-121695347869.png)
+
+## 코드 실행 화면
+![image](https://user-images.githubusercontent.com/114748934/223427582-b45cfd04-3be5-4fcd-9ea9-a4f1ab373ec3.png)
