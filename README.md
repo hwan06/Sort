@@ -6,3 +6,5 @@
 ![img](https://user-images.githubusercontent.com/114748934/223014207-f9b61046-fc5e-4097-b474-b56405815a89.gif)
 # 삽입정렬 자바로 구현하는 알고리즘
 https://www.youtube.com/watch?v=e_Ds3VCX30g
+# 실행화면
+![image](https://user-images.githubusercontent.com/114748934/223293571-f8019976-d811-4153-9ecd-180377779071.png)
