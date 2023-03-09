@@ -15,34 +15,9 @@
 # 2.버블정렬 방법 및 예시
 ![image](https://velog.velcdn.com/images%2Fgillog%2Fpost%2F9f3ab7d6-54a3-468f-b892-84710575cfe7%2Fbubble-sort-001.gif)
 # 버블정렬 자바 코드 구현
-```
-package dd;
-
-import java.util.Arrays;
-
-public class bubble_sort {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		
-		int i,j,temp;// 초기화
-		int arr[] = {5,4,3,2,1}; // 배열방
-		for(i = 0; i < arr.length-1; i++) { // 배열방길이-1 만큼 반복
-			for(j = 0; j < arr.length-1; j++) // 배열방 번호
-				if(arr[j] > arr[j+1]) { // 오른쪽 값이 왼쪽 값보다 큰지 검사
-					temp = arr[j+1]; // temp에 오른쪽 값 저장
-					arr[j+1] = arr[j]; // 오른쪽 값의 자리에 왼쪽값 저장
-					arr[j] = temp; // 왼쪽 값의 자리에 temp값 저장
-			
-			System.out.println(Arrays.toString(arr)); // 버블정렬 한 단계씩 정렬
-					
-				}	
-			}
-		}
-	}	
-```
+![image](https://user-images.githubusercontent.com/114748934/223880547-2c0fb5a3-3e50-4cfb-ba98-673b1236b556.png)
 ## 코드 실행 화면
-![image](https://user-images.githubusercontent.com/114748934/223326790-6e9b9bad-a54f-4df3-8e75-7ce0adcfed84.png)
+![image](https://user-images.githubusercontent.com/114748934/223880675-94c29a7a-29b4-4ca9-a29c-cebd798c6809.png)
 
 # 3.퀵 정렬 방법 및 예시
 피벗(pivot)값을 제일 왼쪽 값으로 지정
